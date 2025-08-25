@@ -38,4 +38,4 @@ module fifo #(
             end
         end
     end
-endmodule
+
